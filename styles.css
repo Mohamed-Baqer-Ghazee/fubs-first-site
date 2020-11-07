@@ -1,0 +1,65 @@
+body {
+  text-align: center;
+  margin: 0;
+  color: black;
+}
+
+.top {
+  padding: 255px;
+  color: white;
+  background-color: #f6f6f6;
+  background-image:url("bgp.jpg");
+  background-attachment: fixed;
+}
+h1 {
+  font-size: 4rem;
+  font-family: 'Caveat', cursive;
+}
+
+h3 {
+  font-weight: normal;
+  font-size: 2.5rem;
+  font-family: 'Pacifico', cursive;
+}
+.middle{
+  margin: 0;
+  padding-top: 100px;
+  background-color: #222831;
+}
+.mp{
+  height: 300px;
+  border-radius: 100%;
+}
+.html{
+  width: 25%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.html{
+  float: left;
+  padding-right: 30px;
+}
+.cpp{
+  float: right;
+  padding-left: 30px;
+  width: 200px;
+}
+hr{
+  color: #212121;
+  border-style: dotted;
+  border-width: 5px 0 0 0;
+  width: 60%;
+}
+.bottom{
+  background-color: #393e46;
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
+
+  .contact-me{
+  padding-bottom: 40px;
+}
